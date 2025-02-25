@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/erencelik">Eren Çelik</a> 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B93E&center=true&vCenter=true&width=500&lines=Software+Engineer;Open-Source+Contributor;Tech+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B93E&center=true&vCenter=true&width=500&lines=Software+Engineer;Blockchain+Developer;Open-Source+Contributor;Tech+Enthusiast;Always+Learning+New+Things" />
 </p>
 
 ---
