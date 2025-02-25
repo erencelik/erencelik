@@ -16,7 +16,7 @@
 
 ### 🔗 Connect with Me
 <p>
-  <a href="https://linkedin.com/in/erencelik" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue"></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/ernclk" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue"></a>&nbsp;&nbsp;
   <a href="https://x.com/0xh4kk" target="_blank"><img src="https://img.shields.io/badge/Twitter-black"></a>&nbsp;&nbsp;
   <a href="mailto:0x65726e@gmail.com"><img src="https://img.shields.io/badge/Email-red"></a>&nbsp;&nbsp;
   <a href="https://erencelik.xyz" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23AAFF00.svg"></a>
