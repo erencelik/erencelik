@@ -9,7 +9,7 @@
 ### 🚀 Languages & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=swift,kotlin,javascript,typescript,react,vue,nodejs,python,java,flutter,dart,html,css,sass,tailwind,mongodb,mysql,git,github,docker,linux,aws,figma" />
+  <img src="https://skillicons.dev/icons?i=swift,kotlin,solidity,javascript,typescript,react,vue,nodejs,python,java,flutter,dart,html,css,sass,tailwind,mongodb,mysql,git,github,docker,linux,aws,figma" />
 </p>
 
 ---
